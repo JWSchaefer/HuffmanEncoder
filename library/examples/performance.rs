@@ -1,7 +1,6 @@
 use std::fs;
 use std::time::Instant;
 
-// use prettytable::*;
 use prettytable::{Cell, Row, Table};
 use unbytify::bytify;
 

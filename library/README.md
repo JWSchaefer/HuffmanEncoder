@@ -1,6 +1,6 @@
 # Compression Tool Libray
 
-Welcome to the Compression Tool Library. 
+Welcome to the Compression Tool Library.
 
 The library provides an api for lossless encoding and decoding of text files.
 
@@ -62,9 +62,8 @@ cargo run --example table
 Loads a copy of the Project Gutenberg [Les Misérables, by Victor Hugo](https://www.gutenberg.org/files/135/135-0.txt), encodes it, then calculates the reduction in file size and the time taken.
 
 ```bash
-cargo run --example statistics
+cargo run --example performance
 ```
-
 
 ```
 +---------------+----------+
